@@ -1,5 +1,5 @@
 # Ignore virtual environment directories
-..myenv\
+..\myenv\
 
 # Ignore database files
 db.sqlite3
