@@ -1,5 +1,7 @@
-# Ignore virtual environment directories
-myenv\
+# .gitignore in "weather_app_django\weather_project"
+
+# Ignore the virtual environment
+../../myenv/
 
 # Ignore database files
 db.sqlite3
