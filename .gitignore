@@ -1,5 +1,6 @@
 # Ignore the virtual environment
 myenv/
+shadevenv/
 
 # Ignore database files
 db.sqlite3
