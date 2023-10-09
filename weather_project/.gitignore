@@ -1,5 +1,5 @@
 # Ignore virtual environment directories
-env/
+env\
 
 # Ignore database files
 db.sqlite3
@@ -8,7 +8,7 @@ db.sqlite3
 *.pyc
 
 # Ignore __pycache__ directories
-__pycache__/
+__pycache__\
 
 # Ignore the .env file
 .env
