@@ -1,5 +1,5 @@
 # Ignore the virtual environment
-myenv
+C:\Users\gsele\OneDrive\Desktop\weather_app_django\myenv
 
 # Ignore database files
 db.sqlite3
